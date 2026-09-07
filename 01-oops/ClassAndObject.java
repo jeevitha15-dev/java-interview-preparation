@@ -13,8 +13,8 @@ public class ClassAndObject {
 
         Student student1 = new Student();
 
-        student1.name = "Jeevitha";
-        student1.age = 36;
+        student1.name = "Bobby";
+        student1.age = 35;
 
         student1.displayDetails();
     }
