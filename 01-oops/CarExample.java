@@ -14,7 +14,7 @@
         c1.displayDetails()	        Invokes object's behavior
 
 
-    One small interview trap ⚠️
+    One small interview trap
 
         Don't say:
         "c1 is the object."
