@@ -17,7 +17,6 @@
     One small interview trap ⚠️
 
         Don't say:
-
         "c1 is the object."
 
         More precisely:
